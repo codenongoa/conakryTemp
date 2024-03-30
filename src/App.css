@@ -40,3 +40,24 @@
 .read-the-docs {
   color: #888;
 }
+.bloc {
+  display: grid;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px;
+  border: 2px solid red;
+  border-radius: 10px;
+  padding: 10px;
+}
+.ville{
+  margin-right: 20px;
+  border-radius: 10px;
+  font-size: 14px;
+}
+.total{
+  display: grid;
+  
+}
+.buton{
+  
+}
